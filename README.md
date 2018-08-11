@@ -1,0 +1,2 @@
+# eb-safe
+safe
